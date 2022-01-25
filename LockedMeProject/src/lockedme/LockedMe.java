@@ -80,6 +80,7 @@ public class LockedMe
 		else
 			for(var l:listofFiles)
 		   System.out.println(l.getName());
+		   System.out.println(endmessage);
 		
 		}
 			catch(Exception Ex)
